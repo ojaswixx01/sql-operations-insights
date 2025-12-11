@@ -1,1 +1,1 @@
-# sql-operations-insights
+SQL Insights Project README
